@@ -1,0 +1,24 @@
+.mainpage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWFycmlhZ2UlMjBwaG90b2dyYXBoeXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.title {
+    font-size: 5rem;
+    color: aliceblue;
+}
+
+
+
+.sub {
+    font-size: 3rem;
+    padding-top: 0.5rem;
+    color: aliceblue;
+}
